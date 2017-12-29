@@ -33,10 +33,6 @@ import java.util.regex.Pattern;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.InflaterInputStream;
 
-/**
- *
- * @author kravenor
- */
 public class NewApplication extends javax.swing.JFrame {
 
     private String directory;
